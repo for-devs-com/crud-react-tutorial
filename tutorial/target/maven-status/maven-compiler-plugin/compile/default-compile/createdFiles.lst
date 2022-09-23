@@ -1,0 +1,4 @@
+fordevs\tutorial\TutorialApplication.class
+fordevs\tutorial\model\Tutorial.class
+fordevs\tutorial\repository\TutorialRepository.class
+fordevs\tutorial\controller\TutorialController.class
